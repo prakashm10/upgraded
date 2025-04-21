@@ -1,4 +1,3 @@
-# upgraded
 # Student Management System 🎓
 
 A web-based app to manage student records. Built with PHP, Javascript, MySQL, and HTML.
@@ -17,7 +16,7 @@ A web-based app to manage student records. Built with PHP, Javascript, MySQL, an
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-prakashm10/upgraded.git
-cd upgraded
+git clone https://github.com/your-prakashm10/student-management-system.git
+cd student-management-system
 npm install
 npm start
